@@ -10,8 +10,6 @@
 
 Check out my projects on github and fork them like a nice piece of chocolate cake 🍰
 
-[GO TO MY GITHUB ](https://github.com/thelibstyles)
-
 If you are library programmer nerd like myself reach out and say hi! ,there might be a project we could co-lab on. ☕☕☕
 
 Have an awesome day. 
