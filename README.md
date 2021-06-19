@@ -2,11 +2,9 @@
 ## My name is Adam AKA thelibstyles. I am a 🤓 librarian, programmer ⌨️, digital creator 🎨 and cat dad 😻. 
 
 ### Things i am into at the moment:
-* Gatsby JS https://www.gatsbyjs.com/
 * Vue 2, two way binding to create silly fun web forms
-* Wordpress themes with custom CSS + JS Libraries
 * CSS animation using custom vectors
-* Python automation using standard libraries
+* google fonts projects
 
 Check out my projects on github and fork them like a nice piece of chocolate cake 🍰
 
