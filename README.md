@@ -7,6 +7,7 @@
 * Node JS boring task automation
 * Python requests
 * Vue JS 2 silly fun apps
+
 Check out my projects on github and fork them like a nice piece of chocolate cake 🍰
 
 [GO TO MY GITHUB ](https://github.com/thelibstyles)
