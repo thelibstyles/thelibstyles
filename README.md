@@ -1,5 +1,5 @@
 # Hi there 👋,
-## My name is Adam AKA thelibstyles. I am a 🤓 librarian, programmer ⌨️, digital creator 🎨 and cat dad 😻. 
+## My name is Adam AKA thelibstyles. I am a 🤓 programmer ⌨️ and cat dad 😻. 
 
 ### Things i am into at the moment:
 * Koha open source LMS customisations
