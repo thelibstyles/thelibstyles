@@ -1,5 +1,5 @@
 # Hi there 👋,
-## My name is Adam AKA thelibstyles. I am a 🤓 programmer ⌨️ and cat dad 😻. 
+## My name is thelibstyles. I am a 🤓 programmer ⌨️ and cat dad 😻. 
 
 ### Things i am into at the moment:
 * Koha open source LMS customisations
@@ -7,12 +7,9 @@
 * Node JS boring task automation
 * Python requests
 * Vue JS 2 silly fun apps
+* React + wordpress co-lab
+* Umbraco CMS customisations
 
-Check out my projects on github and fork them like a nice piece of chocolate cake 🍰
-
-If you are library programmer nerd like myself reach out and say hi! ,there might be a project we could co-lab on. ☕☕☕
-
-Have an awesome day. 
 See ya. 😀
 
 
